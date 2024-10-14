@@ -1,0 +1,30 @@
+#freakycontainer1{
+	background-color: #f5dae2;
+	text-align: center;
+}
+
+.freakycontainer2{
+	background-color: #fff0f5;
+	width: 235px;
+	padding: 20px;
+	margin: auto;
+	box-shadow: 2px 2px 10px rgba(0,0,0, 0.8);
+}
+
+body{
+	background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl5emZobGM1OWY4OTYyamFzOHA2d3poNXljMjUzc3oyNmJ3cGh6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#submit{
+	border-radius: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+label{
+	font-size: 15px;
+	font-family: Consolas;
+}
